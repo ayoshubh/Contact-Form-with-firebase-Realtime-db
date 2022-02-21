@@ -1,0 +1,21 @@
+body{
+    background-image: url("/Group\ 36.png");
+    background-size: cover;
+}
+
+#Selbtn, #Updbtn, #Delbtn, #Cancelbtn{
+    
+    display: none;
+}
+#idLabel, #hiddenId, #idLabel2, #hiddenId2{
+    display:none;
+}
+
+#parent{
+    width: 30vw;
+}
+
+
+/* #Namebox , #Rollbox, #Secbox, label{
+    display: none;
+} */
